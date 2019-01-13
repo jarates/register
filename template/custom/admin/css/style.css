@@ -1,0 +1,89 @@
+.logo-name{
+	color: #fff !important;
+	font-size: 22px !important;
+}
+form .control-label{
+	text-align: right !important;
+}
+form .p-left{
+	flex: 0 0 12.666667% !important;
+    max-width: 12.666667% !important;
+}
+form .p-right{
+	flex: 0 0 87.333333% !important;
+    max-width: 87.333333% !important;
+}
+.logo-report{
+	width: 25px;
+}
+.h-top{
+	border-bottom: 1px solid #ccc;
+}
+.m-data{
+	margin-top: 20px;
+}
+.h-top h5{
+	font-weight: bold;
+}
+.frm div{
+	margin-bottom: 8px;
+}
+.frm div label{
+	font-weight: bold;
+}
+.label{
+	color: #fff;
+	padding-left: 3px;
+	padding-right: 3px;
+	border-radius: 2px;
+}
+.label-danger{
+	background-color: red;
+	
+}
+.label-info{
+	background-color: #45bbe0;
+}
+.custom-table{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.custom-table thead tr{
+	background-color: #988688;
+	color: #fff;
+}
+.custom-table thead tr a{
+	color: #fff;
+	float: right;
+	margin-right: 5px;
+}
+.custom-table thead tr th{
+	border: 1px solid #ccc;
+	text-align: center;
+}
+.custom-table tbody .top{
+	text-align: center;
+}
+.custom-table tbody tr td{
+	padding: 5px;
+	border: 1px solid #ccc;
+}
+.modal-title a{
+	font-size: 16px;
+}
+.custom-input1{
+	width: 200px;
+	display: inline-block;
+	height: 28px;
+	font-size: 16px;
+}
+.btn-save-education{
+	margin-left: 10px;
+}
+.custom-input2{
+	width: 48%;
+	display: inline-block;
+	margin-bottom: 2px;
+	margin-top: 2px;
+	margin-right: 2px;
+}

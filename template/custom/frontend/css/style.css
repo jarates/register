@@ -1,0 +1,104 @@
+#topnav{
+	position: relative !important;
+}
+.wrapper{
+	padding-top: 10px!important;
+}
+.wizard > .steps > ul > li{
+	width: 20% !important;
+}
+.wizard > .steps .number{
+	font-size: 15px !important;
+	top: -17px !important;
+	color: red !important;
+	opacity: 1 !important;
+	font-weight: bold !important;
+}
+.wizard > .steps a{
+	font-size: 15px !important;
+	font-weight: bold;
+}
+.wizard > .content{
+	background-color: #fff !important;
+	min-height: 300px !important;
+}
+.basic-form input[type=radio]{
+	display: inline-block !important;
+	background-color: #fff;
+	cursor: pointer;
+}
+.m-radio{
+	width: 80px !important;
+	display: inline-block !important;
+	cursor: pointer;
+	vertical-align:left !important;
+}
+.select2-results__group{
+	background-color: #eee !important;
+	font-weight: bold !important;
+	text-align: center !important;
+}
+.frm-register h3{
+	text-align: center !important;
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+}
+.frm-register h3[class=confirm]{
+	margin-bottom: 0px !important;
+}
+.checkbox-custom label{
+	cursor: pointer !important;
+}
+
+.checkbox-custom input[type=checkbox]{
+	width: 20px;
+	height: 20px;
+}
+.register-alert{
+	font-size: 20px;
+	font-weight: bold;
+}
+.input-custom-search{
+	font-size: 18px;
+}
+.content-search{
+	margin: 20px;
+}
+.user-link{
+	color: #fff;
+	font-size: 20px;
+}
+.logo-name{
+	color: #fff;
+	font-size: 20px;
+}
+.user-link:hover{
+	color: #fff !important;
+}
+.logo-name:hover{
+	color: #fff !important;
+}
+.p-content{
+	border-bottom: 2px solid #ccc;
+	padding-bottom: 10px;
+}
+.p-content .p-title{
+	font-size: 22px;
+	font-weight: bold;
+}
+.p-content .p-data{
+
+}
+
+.p-content .p-data .detail{
+	font-size: 17px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.p-content .p-data .img{
+
+}
+.p-content .p-data .date{
+	font-size: 13px;
+	text-decoration: underline;
+}
